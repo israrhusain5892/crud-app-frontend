@@ -6,7 +6,7 @@ const Home=()=>{
      return(
         <div
            style={{
-              background:'rgba(0,0,0,0.1)',
+              background:'white',
               height:'100%',
               position:'absolute',
               width:'100%',
